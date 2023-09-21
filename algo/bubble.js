@@ -1,4 +1,4 @@
-async function bubblebhai()
+async function bubble()
 {
     console.log('In bubbe()');
     const ele = document.querySelectorAll(".bar");
