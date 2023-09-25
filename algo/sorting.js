@@ -21,8 +21,8 @@ function disableSortingBtn(){
 function enableSortingBtn(){
     document.querySelector(".bubbleSort").disabled = false;
     document.querySelector(".insertionSort").disabled = false;
-    document.querySelector(".mergeSort").disabled = false;
-    document.querySelector(".quickSort").disabled = false;
+    // document.querySelector(".mergeSort").disabled = false;
+    // document.querySelector(".quickSort").disabled = false;
     document.querySelector(".selectionSort").disabled = false;
 }
 
